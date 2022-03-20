@@ -189,7 +189,9 @@ These instructions are pertinent to GitHub Enterprise Importer CLI users.
 ```
 
 ```
-{% graphql %}
+{% graphql %}```js{:copy}
+const copyMe = true
+```
 
 These instructions are pertinent to GraphQL API users.
 
